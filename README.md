@@ -1,0 +1,2 @@
+# AIHub
+Conexión con Smithery
